@@ -1,4 +1,4 @@
-# Car Price Predictions Using Supervised Learning Models
+# Predictive Analytics on Profits of an Airline Model
 
 # About
 
